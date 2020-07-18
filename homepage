@@ -1,0 +1,54 @@
+<html>
+ <h1 id="title">
+   Sahabzade Irfan Ali Khan
+  </h1>
+  <body>
+  <p>"The sign of a good society is where talent is respected"
+  </p>
+  <figure id="img-div">
+    <img id="image"
+         src="https://wallpapercave.com/wp/wp5868007.jpg"
+         alt="Photo of actor Irrfan khan in salmon color shirt" max-width: 0;/>
+    
+    <figcaption id="img-caption">
+      It is a photoshoot of great actor Irrfan khan in salmon color shirt.
+    </figcaption>
+    </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here are some facts about Irrfan khan.</h3>
+      <ul>
+        <li>He was born to a Muslim Pathan family on 7th January 1967 in Jaipur, Rajasthan, India. His mother was of the Tonk Hakim family and his father was a businessman.</li>
+          <li>  He wanted to become a cricketer before he was offered a scholarship at the National School of Drama (NSD), India. He later married a writer and a former NSD student, Sutapa Sikdar.</li>
+        <li>
+          His real name is Sahabzade Irfan Ali Khan and he himself changed it to ‘Irrfan Khan’ because he liked the sound of it in 2012.
+        </li>
+        <li>
+          He used to get detained at airports because his name was similar to that of a terrorist.
+        </li>
+        <li>
+          His first job was to work as an air-conditioner repair man, and one of the first houses he went to was of actor Rajesh Khanna.
+        </li>
+        <li>
+          He always wanted to give his mother a suitcase filled with money, like it is shown on TV. His mother died 3 days before he left the world, and he couldn’t attend the funeral in Jaipur due to the ongoing pandemic.</li>
+        <li>
+          His breakthrough was via ‘The Warrior’ in 2001. In that very year, the film received awards with the titles ‘British Independent Film Award for Best Technical Achievement’, ‘British Independent Film Award Douglas Hickox Award (Directorial Debut)’, ‘BAFTA Award for Outstanding Debut by a British Writer, Director or Producer’, ‘Sutherland Trophy’, and also won the ‘BAFTA Award for Best British Film’ in 2003.</li>
+        <li>
+          He refused to work on Christopher Nolan’s ‘Interstellar’ in 2014, as he was busy shooting for ‘Lunch Box’ which later won Critics Week Viewers’ Choice Award at Cannes Film Festival.</li>
+        <li>He received the Padma Shri for his contribution to Indian Cinema in 2011.</li>
+        <li>He announced he had neuroendocrine tumour in 2018, and died on 29th April 2020 at Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute, Mumbai, India, where he was kept under observation for colon infection.
+
+        </li>
+    
+  <h4>If you have time you should go and read about this actor on his 
+  <a id="tribute-link"
+     href="https://en.wikipedia.org/wiki/Irrfan_Khan"
+     target="_blank"
+     >Wikipedia entry</a>
+    </ul>
+        </h4>
+     </section>
+  </body>
+</main>
+  
+
+</html>
